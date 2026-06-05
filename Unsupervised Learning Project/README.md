@@ -76,15 +76,23 @@ The `quality` column (score 0–10) is **excluded during training** and only use
 
 ### Correlation Heatmap
 ![Correlation Heatmap] 
+<img width="1055" height="968" alt="image" src="https://github.com/user-attachments/assets/3a0fc70c-9d75-43b6-965c-6282151e3def" />
 
 ### Elbow Method
 ![Elbow Method] 
+<img width="724" height="480" alt="image" src="https://github.com/user-attachments/assets/13524b4f-8faa-4aef-ac25-cdb6658cf8d9" />
+
 
 ### PCA Cluster Plot
 ![PCA Cluster Plot]!
+<img width="699" height="557" alt="image" src="https://github.com/user-attachments/assets/3f094010-0613-447e-b0ef-fe810e58071b" />
+
+
 
 ### Cluster Feature Comparison
 ![Cluster Feature Comparison] 
+<img width="1025" height="550" alt="image" src="https://github.com/user-attachments/assets/c9841176-af52-4857-9d36-ec9ede35402b" />
+
 
 ## Key Results
 
