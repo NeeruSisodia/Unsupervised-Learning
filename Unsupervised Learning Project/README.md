@@ -138,9 +138,9 @@ Clusters with higher alcohol and balanced acidity tended to correspond to higher
 ## File Structure
 
 ```
-├── Unsupervised_learning.ipynb   # Main notebook
+├── Unsupervised_learning.ipynb   
 ├── WineQT.csv                    # Dataset (download separately)
-└── README.md                     # This file
+└── README.md                     
 ```
 
 > The dataset can be downloaded from [Kaggle — Wine Quality](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset).
