@@ -75,23 +75,17 @@ The `quality` column (score 0–10) is **excluded during training** and only use
 ## Visualizations
 
 ### Correlation Heatmap
-![Correlation Heatmap] 
-<img width="1055" height="968" alt="image" src="https://github.com/user-attachments/assets/3a0fc70c-9d75-43b6-965c-6282151e3def" />
+<img width="537" height="488" alt="Screenshot 2026-06-06 164949" src="https://github.com/user-attachments/assets/9bcdcc6d-bc07-48e0-8ab5-1157a0375192" />
 
 ### Elbow Method
-![Elbow Method] 
-<img width="724" height="480" alt="image" src="https://github.com/user-attachments/assets/13524b4f-8faa-4aef-ac25-cdb6658cf8d9" />
-
+<img width="573" height="370" alt="Screenshot 2026-06-06 165259" src="https://github.com/user-attachments/assets/d4b9f41d-e23b-45af-86da-56e980700f62" />
 
 ### PCA Cluster Plot
-![PCA Cluster Plot]!
-<img width="699" height="557" alt="image" src="https://github.com/user-attachments/assets/3f094010-0613-447e-b0ef-fe810e58071b" />
-
-
+<img width="850" height="667" alt="Screenshot 2026-06-06 165423" src="https://github.com/user-attachments/assets/08be412c-b740-42e4-aa56-4d11757e43ce" />
 
 ### Cluster Feature Comparison
-![Cluster Feature Comparison] 
-<img width="1025" height="550" alt="image" src="https://github.com/user-attachments/assets/c9841176-af52-4857-9d36-ec9ede35402b" />
+<img width="894" height="473" alt="Screenshot 2026-06-06 165527" src="https://github.com/user-attachments/assets/e6292d09-ade2-4ab8-8ce2-177da34e4ec2" />
+
 
 
 ## Key Results
